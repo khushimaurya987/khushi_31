@@ -129,7 +129,7 @@ patterns in London house prices.
 - Business insights
 
 📊 **Power BI File:**  
-`london_house.pbix`
+london_house.pbix
 
 ---
 
@@ -150,7 +150,7 @@ performance and historical price trends.
 - Data-driven insights
 
 📊 **Power BI File:**  
-`uber2.pbix`
+uber2.pbix
 
 ---
 
@@ -170,7 +170,7 @@ exploratory analysis, visualization, and insight generation.
 - Data visualization
 
 📓 **Jupyter Notebook:**  
-`python.ipynb`
+python (1).ipynb
 
 ---
 
@@ -265,7 +265,8 @@ real-world data projects to my portfolio.
 
 ### LinkedIn
 Add your LinkedIn profile here.
-[Khushi Maurya](https://www.linkedin.com/in/khushimaurya31/)
+### LinkedIn
+[Khushi Maurya](https://www.linkedin.com/in/khushi-maurya-15711433b/)
 
 ---
 

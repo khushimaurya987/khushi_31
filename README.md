@@ -94,7 +94,7 @@ performance and identifying useful business insights.
 
 ---
 
-## 💻 2. Laptop Purchase Data Analysis – India
+## 💻 2. Laptop_Purchase_Data Analysis – India
 
 **Tools:** Power BI, Data Visualization
 
@@ -265,6 +265,7 @@ real-world data projects to my portfolio.
 
 ### LinkedIn
 Add your LinkedIn profile here.
+[Khushi Maurya](https://www.linkedin.com/in/khushimaurya31/)
 
 ---
 
